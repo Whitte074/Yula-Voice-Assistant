@@ -1,0 +1,6 @@
+{
+  "name": "YULA — Голосовой ИИ-Ассистент",
+  "description": "Интеллектуальный голосовой и тактический ИИ-ассистент в стиле J.A.R.V.I.S. с живым голосовым общением, управлением системами, поиском в реальном времени и голографическим ядром.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
